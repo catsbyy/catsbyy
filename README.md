@@ -2,7 +2,7 @@
 
 ### I am a student and developer
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas leo quis magna tincidunt, non ultrices massa placerat. Praesent non magna quis augue commodo semper quis in orci. Donec condimentum euismod ullamcorper. Sed id lorem odio. Sed elementum metus tincidunt, euismod tellus elementum, vehicula lacus. In volutpat erat ac tortor volutpat ornare. Donec non condimentum nulla. (I'll change it later, of course)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas leo quis magna tincidunt, non ultrices massa placerat. Praesent non magna quis augue commodo semper quis in orci. Donec condimentum euismod ullamcorper. Sed id lorem odio. Sed elementum metus tincidunt, euismod tellus elementum, vehicula lacus. In volutpat erat ac tortor volutpat ornare. Donec non condimentum nulla. (**I'll change it later, of course**)
 
 🔭 I’m currently working on this page. 
 
