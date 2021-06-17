@@ -1,4 +1,4 @@
-## Hi there, my name is Valerii 👋
+## Hello there, my name is Valerii 👋
 
 ### I am a student and developer
 
