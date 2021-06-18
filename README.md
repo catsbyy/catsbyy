@@ -2,7 +2,7 @@
 
 ### I am a student and developer
 
-I'm a second-year student and my major is Software Engineering. I like programming because it it seems to me that this activity is creative and strict at
+I'm a second-year student and my major is Software Engineering. I like programming because it seems to me that this activity is creative and strict at
 the same time. In addition to taking classes, I have spent my time engaging in different courses and creating
 programs for myself. (**I'll rewrite it, probably**)
 
