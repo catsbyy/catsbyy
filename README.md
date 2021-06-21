@@ -10,8 +10,6 @@ programs for myself. (**I'll rewrite it, probably**)
 
 🌱 I’m currently learning Xamarin 
 
-🤔 I'm looking for help with a job to start studying programming on real projects
-
 ⚡ Fun fact: I enjoy playing chess and doing sports, especially swimming and working out in a gym
 
 ### Languages and Tools:
