@@ -17,6 +17,7 @@ programs for myself. (**I'll rewrite it, probably**)
 - Visual Studio
 - C#
 - .NET
+- Appian
 - WPF
 - WinForms
 - Xamarin
