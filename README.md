@@ -12,7 +12,7 @@ programs for myself. (**I'll rewrite it, probably**)
 
 🌱 I’m currently learning and trying to progress in React, Node.js.
 
-⚡ Fun fact: I enjoy playing chess and doing sports, especially ice skating and working out in a gym
+♟️🏋️⛸️ I enjoy playing chess and doing sports, especially ice skating and working out in a gym
 
 ### Languages and Tools:
 
